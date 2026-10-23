@@ -1,0 +1,13 @@
+hotfix_page_title=Hotfix do Gerenciador de Atualização do ABCD (v4.0.2)
+hotfix_menu_title=Hotfix do Atualizador
+hotfix_applied_ok=Gerenciador de Atualização corrigido! Um backup foi salvo como update_manager.php.bak. Agora você pode atualizar para a v4.0.2+.
+hotfix_already_patched=O Gerenciador de Atualização já está corrigido e pronto para atualizações v4.0.2+.
+hotfix_ready_desc=Seu Gerenciador de Atualização foi verificado e atualizado com recuperação atômica de lotes e suporte a autoatualização pré-download.
+hotfix_btn_go=Ir para o Gerenciador de Atualização
+hotfix_btn_retry=Tentar Novamente
+hotfix_err_payload=Erro no Hotfix: O arquivo de payload está ausente ou ilegível (%s).
+hotfix_err_syntax=Erro no Hotfix: A validação de sintaxe PHP do payload falhou (%s).
+hotfix_err_perm=Erro no Hotfix: Permissão negada. O servidor web não pode gravar em %s. O Gerenciador de Atualização exige permissão de escrita em htdocs.
+hotfix_err_write_tmp=Erro no Hotfix: Falha ao gravar o arquivo temporário (%s). Verifique o espaço em disco e as permissões.
+hotfix_err_backup=Erro no Hotfix: Não foi possível criar o backup de segurança (%s). Operação cancelada.
+hotfix_err_rename=Erro no Hotfix: Não foi possível substituir %s. O arquivo original foi mantido.

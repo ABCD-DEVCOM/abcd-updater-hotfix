@@ -1,0 +1,13 @@
+hotfix_page_title=Correctif du Gestionnaire de mise à jour ABCD (v4.0.2)
+hotfix_menu_title=Correctif du Gestionnaire
+hotfix_applied_ok=Gestionnaire de mise à jour corrigé ! Une sauvegarde a été créée sous update_manager.php.bak. Vous pouvez passer à la v4.0.2+.
+hotfix_already_patched=Le Gestionnaire de mise à jour est déjà corrigé et prêt pour les mises à jour v4.0.2+.
+hotfix_ready_desc=Votre Gestionnaire de mise à jour a été vérifié et mis à jour avec récupération atomique par lots et prise en charge de l'auto-actualisation avant téléchargement.
+hotfix_btn_go=Aller au Gestionnaire de mise à jour
+hotfix_btn_retry=Réessayer le correctif
+hotfix_err_payload=Erreur Hotfix : Le fichier payload est manquant ou illisible (%s).
+hotfix_err_syntax=Erreur Hotfix : La validation de la syntaxe PHP du payload a échoué (%s).
+hotfix_err_perm=Erreur Hotfix : Autorisation refusée. Le serveur web ne peut pas écrire dans %s. Le Gestionnaire de mise à jour nécessite des droits d'écriture sur htdocs.
+hotfix_err_write_tmp=Erreur Hotfix : Échec de l'écriture du fichier temporaire (%s). Vérifiez l'espace disque et les permissions.
+hotfix_err_backup=Erreur Hotfix : Impossible de créer la sauvegarde de sécurité (%s). Opération annulée.
+hotfix_err_rename=Erreur Hotfix : Impossible de remplacer %s. Le fichier d'origine a été conservé.

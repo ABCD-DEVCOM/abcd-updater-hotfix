@@ -1,0 +1,13 @@
+{
+  "name": "ABCD Update Manager Hotfix (v4.0.2)",
+  "slug": "abcd-updater-hotfix",
+  "version": "1.0.0",
+  "author": "Roger C. Guilherme",
+  "description": "Safely patches update_manager.php on ABCD v4.0.0 and v4.0.1 installations without SSH or FTP.",
+  "entry": "index.php",
+  "settings_page": "index.php",
+  "hooks": [
+    "abcd_footer_end"
+  ],
+  "config_bridge": true
+}

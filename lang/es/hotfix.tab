@@ -1,0 +1,13 @@
+hotfix_page_title=Hotfix del Gestor de Actualización de ABCD (v4.0.2)
+hotfix_menu_title=Hotfix del Actualizador
+hotfix_applied_ok=¡Gestor de Actualización corregido! Se guardó una copia en update_manager.php.bak. Ahora puede actualizar a v4.0.2+.
+hotfix_already_patched=El Gestor de Actualización ya está corregido y listo para actualizaciones v4.0.2+.
+hotfix_ready_desc=Su Gestor de Actualización ha sido verificado y actualizado con recuperación atómica por lotes y soporte de autoactualización previa a la descarga.
+hotfix_btn_go=Ir al Gestor de Actualización
+hotfix_btn_retry=Reintentar Parche
+hotfix_err_payload=Error de Hotfix: El archivo payload falta o no se puede leer (%s).
+hotfix_err_syntax=Error de Hotfix: Falló la validación de sintaxis PHP del payload (%s).
+hotfix_err_perm=Error de Hotfix: Permiso denegado. El servidor web no puede escribir en %s. El Gestor de Actualización requiere permisos de escritura en htdocs.
+hotfix_err_write_tmp=Error de Hotfix: No se pudo escribir el archivo temporal (%s). Verifique el espacio en disco y los permisos.
+hotfix_err_backup=Error de Hotfix: No se pudo crear la copia de seguridad (%s). Operación cancelada.
+hotfix_err_rename=Error de Hotfix: No se pudo reemplazar %s. Se mantuvo el archivo original.

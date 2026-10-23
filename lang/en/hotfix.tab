@@ -1,0 +1,13 @@
+hotfix_page_title=ABCD Update Manager Hotfix (v4.0.2)
+hotfix_menu_title=Update Manager Hotfix
+hotfix_applied_ok=Update Manager patched! A backup was saved as update_manager.php.bak. You can now update to v4.0.2+.
+hotfix_already_patched=Update Manager is already patched and ready for v4.0.2+ updates.
+hotfix_ready_desc=Your Update Manager has been verified and updated with atomic batch recovery and pre-download self-update support.
+hotfix_btn_go=Go to Update Manager
+hotfix_btn_retry=Retry Patch
+hotfix_err_payload=Hotfix Error: Payload file is missing or unreadable (%s).
+hotfix_err_syntax=Hotfix Error: Payload PHP syntax validation failed (%s).
+hotfix_err_perm=Hotfix Error: Permission denied. The web server cannot write to %s. The Update Manager requires write permissions on htdocs.
+hotfix_err_write_tmp=Hotfix Error: Failed to write temporary file (%s). Check disk space and permissions.
+hotfix_err_backup=Hotfix Error: Could not create safety backup (%s). Aborting patch.
+hotfix_err_rename=Hotfix Error: Could not replace %s. Original file was kept.
